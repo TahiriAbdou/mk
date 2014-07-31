@@ -1,0 +1,15 @@
+{
+    "name": "tahiriabdou/mk",
+    "description": "a simple and quick blogging system",
+    "require": {
+        "laravel/framework": "4.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "TahiriAbdou",
+            "email": "tahiri.abdou@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
